@@ -5,4 +5,4 @@ program space :<br>
 <br>
 <code> git clone https://github.com/hattson-corp/taskmanager.git</code><br>
 <code> cd taskmanager</code><br>
-<code< python3 main.py </code>
+<code> python3 main.py </code>
